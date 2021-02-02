@@ -7,3 +7,4 @@ public class Manuel {
         System.out.println("Problema cerrado");
     }
 }
+
