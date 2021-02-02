@@ -6,5 +6,6 @@ public class Manuel {
         System.out.println("Primera funcionalidad terminada");
         System.out.println("Problema cerrado");
 
+
     }
 }
