@@ -5,7 +5,7 @@ public class Patricia {
         System.out.println("Acabe la funcionalidad");
         System.out.println("Problema   ");
         System.out.println("Problema cerrado");
-        //Problema resuelto
+        //Problema resuelto.
         System.out.println("Problema cerrado");
 
 
